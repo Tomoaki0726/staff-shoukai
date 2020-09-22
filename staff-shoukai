@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>当院のご紹介</title>
+<link rel="stylesheet" type="text/css" href="../staff-shoukai" media="all" />
+</head>
+<body>
+ <div id="wrapper_sotowaku">
+    <div id="header">
+        <h1>こいけ接骨院</h1>
+        <div id="header_picture2"></div>
+    </div>
+
+    
+    <div id="globalNav">
+        <ul>
+            <li><a href="http://www.google.co.jp/">HOME</a></li>
+            <li><a href="http://www.google.co.jp/">当院のご紹介</a></li>
+            <li><a href="http://www.google.co.jp/">スタッフ紹介</a></li>
+            <li><a href="http://www.google.co.jp/">施術メニュー＆御料金</a></li>
+            <li><a href="http://www.google.co.jp/">お問い合わせ</a></li>
+            <li><a href="http://www.google.co.jp/">Access</a></li>
+        </ul>
+    </div>
+    
+    <div id="section_wrapper">
+        <div id="section_title_image">
+            <h2>スタッフ紹介</h2>
+        </div>
+        <div id="section">
+            <h3>施術スタッフ</h3>
+            <p class="title_text">【院長】　<span class="title_text2">小池智晃</span></p></br>
+            <p class="title_text">【所有資格資格】　<span class="title_text2">柔道整復師　健康管理指導員1級</span></p></br>
+            <p class="title_text3">〜経歴〜</p></br>
+            <p class="title_text"><span class="title_text2">埼玉県の整形外科病院に6年勤務し医療の基礎を築く。</span></p></br>
+            <p class="title_text"><span class="title_text2">そして東海最大級の接骨院にて接骨院に5年勤務し、</span></p></br>
+            <p class="title_text"><span class="title_text2">トータル３万人以上の施術を行い、4000件以上の怪我の処置を行う。</span></p></br>
+            <p class="title_text3">〜その他〜</p></br>
+            <p class="title_text">家族構成：<span class="title_text2">独身、５人家族３人兄弟の長男</span></p></br>
+            <p class="title_text">好きな食べ物：<span class="title_text2">ハンバーグ、ラーメン、牛丼、親子丼、オムライス、甘いもの、コーヒー</span></p></br>
+            <p class="title_text">嫌いな食べ物：<span class="title_text2">パクチー</span></p></br>
+            <p class="title_text">趣味：<span class="title_text2">バイク、ギター、マラソン、神社めぐり、温泉めぐり、アニメ、アイドル</span></p></br>
+            <p class="title_text">特技：<span class="title_text2">追求すること</span></p></br>
+            <p class="title_text">好きなタイプ：<span class="title_text2">大島優子さん</span></p></br>
+            <p class="title_text">理想の結婚相手：<span class="title_text2">北斗晶さん</span></p></br>
+            <p class="title_text">最近の悩み：<span class="title_text2">タイピングが遅い事、ベジータ化</span></p></br>
+            <p class="title_text"></br>
+            <p class="title_text"></br>
+
+        </div>
+    </div>
+        <div id="bottom_nav">
+            <ul>
+                <li>
+                    <a >外部リンク</a>
+                </li>
+                <li>
+                    <a href="http://www.google.co.jp/">他サイト</a>
+                </li>
+                <li>
+                    <a href="http://www.google.co.jp/">他サイト</a>
+                </li>
+                <li>
+                    <a href="http://www.google.co.jp/">他サイト</a>
+                </li>
+                
+                </li>
+            </ul>
+        </div>
+</div>
+        <div id="push" class="clearfix">
+        </div>
+
+        <div id="footer">
+        <address>&copy; koike bonesetter</address>
+        </div>
+</body>
+</html>
